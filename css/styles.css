@@ -159,7 +159,7 @@ main {
   margin-left: auto;
   margin-right: auto;
   position: relative;
-  background-image: url("../img/digital_portrait.png");
+  background-image: url(../img/digital_portrait.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
